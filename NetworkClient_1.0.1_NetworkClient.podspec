@@ -34,6 +34,7 @@ s.tvos.deployment_target = '9.0'
 s.source_files = 'Source/**/*'
 
 s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.0' }
+s.swift_version = "4.0"
 
 # s.resource_bundles = {
 #   'NetworkClient' => ['NetworkClient/Assets/*.png']
